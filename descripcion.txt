@@ -1,0 +1,1 @@
+Este trabajo es una combinación de elementos usados solo para practicar sin seguir un orden, incluye imagen, video, audio, tabla y un poco de CSS dentro del mismo html
